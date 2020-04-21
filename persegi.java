@@ -1,4 +1,4 @@
-class persegi extends BangunDatar {
+public class persegi extends BangunDatar {
     float sisi;
 
     @Override
